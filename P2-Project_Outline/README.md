@@ -18,8 +18,18 @@ For this assignment, you will submit a high-level outline of your project. This 
   Users can set up and receive push notifications to maintain safety stock.
 
 ### Technologies
-Include Technologies here
+  JavaScript;
+  Angular;
+  Java;
+  Spring Boot;
+  MySQL.
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+  How to connect Angular to Spring Boot;
+  How to use data from an API;
+  How to use responsive Web Design;
+  How to create push notifications.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/invite/b/YawwUMVa/ATTI04b7360531707900392eac567633690739B755EE/liftoff-group-project-trello
+
