@@ -10,21 +10,15 @@ For this assignment, you'll create some initial plans for your project.
 
 [Wireframes](https://github.com/RoohieK/liftoff-assignments/blob/master/P3-Project_Planning/Wireframes.pdf)
 
-The linked PDF includes four wireframes:
+	The linked PDF includes four wireframes:
 
-Landing Page
-
-New User Registration Page
-
-User Login Page
-
-Adding or Updating an Item Page
-
-All Inventory Page
-
-Low Stock Page
-
-Search Page
+		Landing Page
+		New User Registration Page
+		User Login Page
+		Adding or Updating an Item Page
+		All Inventory Page
+		Low Stock Page
+		Search Page
 
 ### Project Tracker
 
