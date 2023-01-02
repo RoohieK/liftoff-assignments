@@ -24,6 +24,10 @@ For this assignment, you'll create some initial plans for your project.
 
 [TrelloBoard](https://trello.com/b/YawwUMVa/liftoff-group-project-trello)
 
+A screenshot of the Board can also be found below:
+
+![screenshot of User stories](https://github.com/RoohieK/liftoff-assignments/blob/master/P3-Project_Planning/TrelloScreenshot.png)
+
 ### Project Repo Link
 
 Include a link to your project on GitHub.
