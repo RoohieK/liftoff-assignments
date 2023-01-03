@@ -30,4 +30,4 @@ A screenshot of the Board can also be found below:
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[inventory-tracker](https://github.com/ashleyglenn0/inventory-tracker)
